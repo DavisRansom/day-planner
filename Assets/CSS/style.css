@@ -1,4 +1,4 @@
-.jumbotron {text-align: center;}
+.jumbotron {text-align: center; background-color: lightcyan;}
 
 .row textarea {background-color: silver;}
 .current textarea {background-color: lightgreen;}
