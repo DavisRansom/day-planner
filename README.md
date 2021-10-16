@@ -27,7 +27,9 @@ To erase the event, simple write over it, and click the Save button.
 ## Authors
 
 Davis Ransom
+<br>
 davis.ransom.tech@gmail.com 
+<br>
 https://github.com/DavisRansom
 
 ## Version History
