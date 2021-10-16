@@ -13,7 +13,7 @@ $(document).ready(function () {
         const todo = $(this).siblings("textarea").val();
         localStorage.setItem(time, todo);
     });
-    
+
     //section to read from local storage
     //I will grab from local storage the time and todo const for each row
     //for every element of this array do a check in local storage for that key
